@@ -1,0 +1,7 @@
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Never add local secret files
+.env
